@@ -1,0 +1,10 @@
+console.log("cocinar una torta");
+console.log("1 taza de harina integral");
+console.log("1 taza de azucar mascabo");
+console.log("2 huevos");
+console.log("una cucharada de miel");
+console.log("media taza de aceite");
+console.log("2 manzanas rayas");
+console.log("almendras");
+console.log("azucar impalpable");
+console.log("cocinar a horno minimo");
